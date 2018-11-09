@@ -1,0 +1,24 @@
+body {
+
+  color: darkblue;
+  font-family:sans-serif;
+  background: url("Epic achtergrond.png");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.menubalk {
+  background-color: none;
+  padding: 20px
+}
+
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #e2e2e2;
+}
+li{
+  font-family: sans-serif;
+  font-size:20px;
+}
