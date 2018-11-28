@@ -1,13 +1,18 @@
 body {
 
-  color: darkblue;
+  color: #f2f2f2;
   font-family:sans-serif;
   background: url("Epic achtergrond.png");
-  background-position: center;
+  background-position: top;
   background-size: 100%;
   background-repeat: no-repeat;
 }
+<style>
+  body {
 
+
+  }
+</style>
 .menubalk {
   background-color: none;
   padding: 20px
@@ -16,7 +21,7 @@ body {
 a {
   text-decoration: none;
   font-family: sans-serif;
-  color: #e2e2e2;
+  color: #0000ff;
 }
 li{
   font-family: sans-serif;
